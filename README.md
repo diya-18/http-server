@@ -1,4 +1,4 @@
-# 🔬 HTTP Server: Building from the TCP/IP Foundation
+#  HTTP Server: Building from the TCP/IP Foundation
 
 This project is a **minimalist, educational HTTP server** built directly on Python's native `socket` library.
 
@@ -6,7 +6,7 @@ The primary goal is to gain a deep, practical understanding of fundamental compu
 
 ---
 
-## ✨ Educational Focus and Key Concepts
+##  Educational Focus and Key Concepts
 
 This project serves as a hands-on exercise to master the following core concepts:
 
@@ -21,7 +21,7 @@ This project serves as a hands-on exercise to master the following core concepts
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -42,7 +42,7 @@ This project serves as a hands-on exercise to master the following core concepts
 
 ---
 
-## 📚 Future Learning/Improvements
+##  Future Learning/Improvements
 
 * Implement basic multi-threading or non-blocking I/O to handle multiple concurrent client connections.
 * Add logic to serve common static file types (e.g., `.css`, `.js`, `.png`) based on the requested file path.
